@@ -734,31 +734,6 @@ section.lazy-placeholder:after {
 .cid-rRBWFcwyQE .mbr-section-btn {
   color: #ffffff;
 }
-.cid-s92a2Appgm {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s92a2Appgm h3 {
-  text-align: center;
-}
-.cid-s92a2Appgm .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-s92a2Appgm .mbr-content-text {
-  color: #767676;
-}
-.cid-s92a2Appgm .panel-item {
-  background: #ffffff;
-}
-.cid-s92a2Appgm .card {
-  word-wrap: break-word;
-}
-.cid-s92a2Appgm .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
 .cid-s98rECFsI7 {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -829,6 +804,31 @@ section.lazy-placeholder:after {
   .cid-s98syb7Nfd .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-s92a2Appgm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s92a2Appgm h3 {
+  text-align: center;
+}
+.cid-s92a2Appgm .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-s92a2Appgm .mbr-content-text {
+  color: #767676;
+}
+.cid-s92a2Appgm .panel-item {
+  background: #ffffff;
+}
+.cid-s92a2Appgm .card {
+  word-wrap: break-word;
+}
+.cid-s92a2Appgm .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
 }
 .cid-rRTz8mkSNP {
   padding-top: 90px;
